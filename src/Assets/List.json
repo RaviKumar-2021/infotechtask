@@ -1,0 +1,65 @@
+{
+  "locations": [
+    {
+      "name": "Andhra Pradesh",
+      "location": {
+        "longitude": "14.750429",
+        "latitude": "78.570025"
+      }
+    },
+
+    {
+      "name": "Bihar",
+      "location": {
+        "longitude": "25.785414",
+        "latitude": "87.479977"
+      }
+    },
+    {
+      "name": "Chandigarh",
+      "location": {
+        "longitude": "30.719996",
+        "latitude": "76.780005"
+      }
+    },
+    {
+      "name": "Delhi",
+      "location": {
+        "longitude": "28.669999",
+        "latitude": "77.230004"
+      }
+    },
+
+    {
+      "name": "Goa",
+      "location": {
+        "longitude": "15.491997",
+        "latitude": "73.818000"
+      }
+    },
+
+    {
+      "name": "Haryana ",
+      "location": {
+        "longitude": "28.450006",
+        "latitude": "77.019991"
+      }
+    },
+
+    {
+      "name": "Jammu And Kashmir",
+      "location": {
+        "longitude": "34.299959",
+        "latitude": "74.466658"
+      }
+    },
+
+    {
+      "name": "Meghalaya",
+      "location": {
+        "longitude": "34.299959",
+        "latitude": "74.466658"
+      }
+    }
+  ]
+}
