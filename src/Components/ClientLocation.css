@@ -1,0 +1,99 @@
+.clientLocation {
+  height: 700px;
+  padding: 100px auto;
+  background-color: silver;
+}
+.mainContainer {
+  background-color: silver;
+  padding: 50px 10px;
+  display: flex;
+  justify-content: space-around;
+}
+.topArea {
+  padding-left: 10px;
+  display: flex;
+  background-color: #fff;
+  gap: 10px;
+  align-items: center;
+  height: 40px;
+  width: auto;
+  border-bottom: 3px solid blue;
+}
+.leftSection {
+  min-height: 550px;
+  width: 30%;
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px,
+    rgba(17, 17, 26, 0.05) 0px 8px 32px;
+  border-radius: 10px;
+}
+.leftSection .leftsubSection {
+  background: wheat;
+  margin: 0 10px;
+  height: 98%;
+}
+.textContainer {
+  padding: 0 10px;
+}
+.textContainer .doropdownMainContainer p {
+  font-size: 16px;
+}
+.dropdownMenu {
+  display: flex;
+  height: 35px;
+  margin: 0 auto;
+  align-items: center;
+  width: 100%;
+  background-color: #fff;
+  gap: 10px;
+  justify-content: space-between;
+}
+.dropdownMenu p:nth-child(1) {
+  display: grid;
+  width: 40px;
+  place-items: center;
+  background-color: #dddddd;
+  height: 100%;
+}
+.dropdownMenu p:nth-child(3) {
+  display: grid;
+  width: 40px;
+  place-items: center;
+  height: 100%;
+}
+.dropdownMenu:hover {
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px,
+    rgba(17, 17, 26, 0.05) 0px 8px 32px;
+  cursor: pointer;
+}
+.inputContainer input {
+  height: 30px;
+  width: 96%;
+  padding-left: 10px;
+}
+.inputContainer p {
+  font-size: 16px;
+}
+
+.timeRange .timeRangeline {
+  height: 30px;
+  background-color: #fff;
+  display: grid;
+  place-items: center;
+}
+.midSection {
+  width: 50%;
+}
+
+.locationList {
+  height: 30px;
+  display: flex;
+  align-items: center;
+  margin: 0;
+  font-size: 16;
+  padding-left: 10px;
+}
+.locationList:hover {
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px,
+    rgba(17, 17, 26, 0.05) 0px 8px 32px;
+  cursor: pointer;
+}
